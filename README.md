@@ -1,0 +1,2 @@
+# TyporaPors
+ some development experience
