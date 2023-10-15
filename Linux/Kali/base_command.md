@@ -10,3 +10,5 @@
 └─# nmap -A 192.168.32.162
 ```
 ## 安装和卸载服务命令
+看下帖
+https://blog.csdn.net/weixin_45588247/article/details/122259322
