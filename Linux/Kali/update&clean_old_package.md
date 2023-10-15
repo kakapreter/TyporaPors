@@ -3,6 +3,6 @@
 apt-get update && apt-get upgrade && apt-get clean && apt-get autoclean && clear
 ```
 # 更新系统版本
-``bash
+```bash
 apt update && apt -y full-upgrade && clear
-``
+```
