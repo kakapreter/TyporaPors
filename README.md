@@ -3,8 +3,8 @@
 
 ```
 Chemical
-  |--demo01
-  |--demo02
+  |--demo001
+  |--demo002
 ```
 ```
 Linux
