@@ -1,8 +1,10 @@
-# 更新软件包并清理无用包
+# 更新系统版本 & 清理不再需要的依赖软件包
 ```bash
-apt-get update && apt-get upgrade && apt-get clean && apt-get autoclean && apt autoremove && clear
+apt update && apt -y full-upgrade && apt autoremove && clear
 ```
-# 更新系统版本
+
+# 更新软件包&清理本地存储的已下载包文件&清屏
 ```bash
-apt update && apt -y full-upgrade && clear
+apt-get update && apt-get upgrade && apt-get clean && clear
 ```
+
