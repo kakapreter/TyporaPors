@@ -4,5 +4,5 @@
 └─$ sudo -i
 [sudo] password for jack: 
 ┌──(root㉿bogon)-[~]
-└─# msfconsoleg
+└─# msfconsole
 ```
