@@ -35,3 +35,10 @@ Metasploit Documentation: https://docs.metasploit.com/
 msf6 > 
 
 ```
+
+## 常用指令
+
+```bash
+### 搜索特定年份的漏洞信息
+search type:exploit date:2023
+```
