@@ -1,4 +1,4 @@
-# 使用
+## 开始使用
 ```bash
 ┌──(jack㉿bogon)-[~/Desktop]
 └─$ sudo -i
