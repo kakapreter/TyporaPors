@@ -13,5 +13,5 @@ msf6 >
 
 ```bash
 ### 搜索特定年份的漏洞信息
-search type:exploit date:2023
+msf6 > search type:exploit date:2023
 ```
