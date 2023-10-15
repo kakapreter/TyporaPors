@@ -1,5 +1,5 @@
 # TyporaPors
- some development experience
+ some experience
 
 ```
 Chemical
