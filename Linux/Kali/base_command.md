@@ -1,5 +1,6 @@
 ## 查询局滤网下所有存活的主机
-``bash
+
+```bash
 ┌──(root㉿bogon)-[~]
 └─# arp-scan -l
 Interface: eth0, type: EN10MB, MAC: 00:0c:29:91:cb:e4, IPv4: 192.168.32.163
