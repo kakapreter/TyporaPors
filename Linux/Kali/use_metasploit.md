@@ -2,7 +2,8 @@
 ```bash
 ┌──(jack㉿bogon)-[~/Desktop]
 └─$ sudo -i
-[sudo] password for jack: 
+[sudo] password for jack:
+
 ┌──(root㉿bogon)-[~]
 └─# msfconsole
 msf6 > 
