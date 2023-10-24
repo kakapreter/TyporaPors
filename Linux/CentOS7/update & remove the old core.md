@@ -12,12 +12,19 @@ rpm -qa | grep kernel
 系统安装的所有内核，如下：
 
 > kernel-tools-3.10.0-1160.53.1.el7.x86_64
+> 
 > kernel-devel-3.10.0-1160.el7.x86_64
+> 
 > kernel-tools-libs-3.10.0-1160.53.1.el7.x86_64
+> 
 > kernel-headers-3.10.0-1160.53.1.el7.x86_64
+> 
 > kernel-3.10.0-1160.53.1.el7.x86_64
+> 
 > kernel-3.10.0-1160.el7.x86_64
+> 
 > kernel-devel-3.10.0-1160.53.1.el7.x86_64
+> 
 > kernel-devel-3.10.0-1160.42.2.el7.x86_64
 
 ## 查看系统当前正在使用内核
