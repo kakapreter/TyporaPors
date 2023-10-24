@@ -1,5 +1,8 @@
 # CentOS7 删除多余内核
-
+## 更新系统和软件
+```bash
+yum -y update && yum clean all && yum makecache && yum -y upgrade
+```
 ## 查看内核列表
 
 ```bash
