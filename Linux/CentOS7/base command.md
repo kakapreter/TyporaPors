@@ -1,6 +1,7 @@
 # 查看当前系统的所有用户信息
+```bash
 cat /etc/passwd | grep -v -e '/sbin/nologin' -e '/sbin/halt' -e '/bin/sync' -e '/sbin/shutdown' | awk -F: '{print $1}'
-
+```
 
 # 查看,开启,关闭,设置开机自启服务
 
