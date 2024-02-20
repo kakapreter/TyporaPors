@@ -1,4 +1,4 @@
-> vi /etc/sysconfig/network-scripts/ifcfg-ens33
+## vi /etc/sysconfig/network-scripts/ifcfg-ens33
 
 TYPE=Ethernet
 
@@ -41,13 +41,13 @@ DNS1=8.8.8.8             #添加
 DNS2=114.114.114.114     #添加
 
 修改完之后执行
-# service network restart
+## service network restart
 
-# vi /etc/hostname
+## vi /etc/hostname
 
-# vi /etc/resolv.conf
+## vi /etc/resolv.conf
 nameserver 8.8.8.8
 
 nameserver 114.114.114.114
 
-# yum install net-tools
+## yum install net-tools
