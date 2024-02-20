@@ -1,4 +1,4 @@
-# vi /etc/sysconfig/network-scripts/ifcfg-ens33
+> vi /etc/sysconfig/network-scripts/ifcfg-ens33
 
 TYPE=Ethernet
 
