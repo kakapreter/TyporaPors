@@ -47,7 +47,7 @@ DNS2=114.114.114.114     #添加
 
 # vi /etc/resolv.conf
 nameserver 8.8.8.8
-nameserver 114.114.114.114
 
+nameserver 114.114.114.114
 
 # yum install net-tools
